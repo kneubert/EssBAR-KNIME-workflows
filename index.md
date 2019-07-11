@@ -12,9 +12,9 @@ You need to load the EssBAR update site as a repository within KNIME using
 ```Help -> Install New Software -> Add```  
 Now add the update site [https://www.mi.fu-berlin.de/ess-bar/update_site.p2](https://www.mi.fu-berlin.de/ess-bar/update_site.p2) to the available software sites. Select all the displayed packages "EssBAR applications, NGS QC features" and click on Next>. Accept the license agreements by checking the corresponding box.
 If a security warning pops up click install anyway:  
-+
+<br/>
 ![image](images/unsigned_content-warning.png)  
-+
+<br/>
 You will be asked to restart KNIME for changes to take effect. Afterwards the EssBAR KNIME nodes should be visible in the KNIME Node repository.
 
 ### Example workflows
