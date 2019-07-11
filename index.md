@@ -18,8 +18,8 @@ You will be asked to restart KNIME for changes to take effect. Afterwards the Es
 ### Example workflows
 For testing we provide several workflows with test data:
  - Metagenomics workflow: [Slimm_taxonomic classification.knwf](Slimm_taxonomic_classification.knwf)
- - De novo assembly workflow [SPAdes_assembly.knwf](SPAdes_assembly.knwf)
- - MLST workflow [MLST_NGS-data.knwf](MLST_NGS-data.knwf)
+ - De novo assembly workflow: [SPAdes_assembly.knwf](SPAdes_assembly.knwf)
+ - MLST workflow: [MLST_NGS-data.knwf](MLST_NGS-data.knwf)
 
 ### Source code
 The source code for all nodes at [EssBAR-KNIME-nodes](https://github.com/kneubert/EssBAR-KNIME-nodes)
