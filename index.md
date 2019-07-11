@@ -17,7 +17,7 @@ You will be asked to restart KNIME for changes to take effect. Afterwards the Es
 
 ### Example workflows
 For testing we provide several workflows with test data:
- - Metagenomics workflow 
+ - Metagenomics workflow (Slimm_taxonomic_classification.knwf)
  - De novo assembly workflow
  - Phylogenetics workflow
  - MLST workflow
