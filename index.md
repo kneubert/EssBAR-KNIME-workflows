@@ -10,7 +10,11 @@ This is a collection of KNIME nodes to detect and characterize foodborne pathoge
 ### Installation of nodes using the update site
 You need to load the EssBAR update site as a repository within KNIME using  
 ```Help -> Install New Software -> Add```  
-Now add ```https://www.mi.fu-berlin.de/ess-bar/update_site.p2``` to the available update sites. Select all the displayed packages "EssBAR applications, NGS QC features" and click on Next>. Accept the license agreements by checking the corresponding box.
+Now add ```https://www.mi.fu-berlin.de/ess-bar/update_site.p2``` to the available update sites. Select all the displayed packages "EssBAR applications, NGS QC features" and click on Next>.   
+<br/>
+![image](images/update_site_install.png)  
+<br/>
+Accept the license agreements by checking the corresponding box.
 If a security warning pops up click install anyway:  
 <br/>
 ![image](images/unsigned_content-warning.png)  
