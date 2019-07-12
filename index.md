@@ -26,7 +26,7 @@ For testing we provide several workflows with test data:
  - Metagenomics workflow: [Slimm_taxonomic classification.knwf](Slimm_taxonomic_classification.knwf)
  - De novo assembly workflow: [SPAdes_assembly.knwf](SPAdes_assembly.knwf)
  - MLST workflow: [MLST_NGS-data.knwf](MLST_NGS-data.knwf)  
- Example data: [workflow_data.zip](https://www.mi.fu-berlin.de/ess-bar/workflow_data.zip)
+ Example data: [workflow_data.tar.gz](https://www.mi.fu-berlin.de/ess-bar/workflow_data.tar.gz)
 
 ### Source code
 The source code for all nodes at [EssBAR-KNIME-nodes](https://github.com/kneubert/EssBAR-KNIME-nodes)
