@@ -5,9 +5,10 @@ This is a collection of KNIME nodes to detect and characterize foodborne pathoge
 ### Prerequisites
  - Linux OS (x86_64)
  - KNIME Analytics Platform for Linux (>= version 3.1, but below version 4.0)
- - KNIME Community Extensions - Bioinformatics & NGS -> SeqAn NGS Toolbox (GenericKnimeNodes, NgsToolbox, SeqAn)
-
-### Installation of nodes using the update site
+ - KNIME Community Extensions - Bioinformatics & NGS -> SeqAn NGS Toolbox (GenericKnimeNodes, NgsToolbox, SeqAn)  
+ - KNIME Interactive R Statistics Integration (>= 4.0)
+ 
+### Installation of nodes using the update site  
 You need to load the EssBAR update site as a repository within KNIME using  
 ```Help -> Install New Software -> Add```  
 Now add ```https://www.mi.fu-berlin.de/ess-bar/update_site.p2``` to the available update sites. Select all the displayed packages "EssBAR applications, NGS QC features" and click on Next>.   
