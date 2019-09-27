@@ -20,8 +20,8 @@ If a security warning pops up click install anyway:
    
 ![image](images/unsigned_content-warning.png)    
 
-You will be asked to restart KNIME for changes to take effect. Click on no and continue with the installation of the Generic KNIME nodes with ```Help -> Install New Software```. Now work with the GKN nighly build site, click on the triangle next to 'Uncategorized' and select ```Generic Workflow Nodes for KNIME```. After finishing the installation you need to restart KNIME.
-Afterwards the EssBAR KNIME nodes should be visible in the KNIME Node repository.   
+You will be asked to restart KNIME for changes to take effect. Click on no and continue with the installation of the Generic KNIME nodes with ```Help -> Install New Software```. Now work with the GKN nighly build site, click on the triangle next to 'Uncategorized' and select ```Generic Workflow Nodes for KNIME```. After finishing the installation you need to restart KNIME.   
+Afterwards the EssBAR KNIME nodes and GenericKnimeNodes should be visible as Community Nodes in the KNIME Node repository.   
    
 ### Example workflows
 For testing we provide several workflows with test data:
