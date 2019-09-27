@@ -16,7 +16,7 @@ Now add these update sites to the available software sites:
   - GKN: ```https://abibuilder.informatik.uni-tuebingen.de/archive/openms/knime-plugin/updateSite/nightly/```
 Select all the displayed packages "EssBAR applications, NGS QC features" and click on Next.   
    
-![image](images/update_site_install.png)  
+![image](images/loaded_update_sites.png)
 Accept the license agreements by checking the corresponding box.
 If a security warning pops up click install anyway:  
 ![image](images/unsigned_content-warning.png)    
