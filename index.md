@@ -14,8 +14,8 @@ You need to load the EssBAR update site as a repository within KNIME using
 Now add these update sites to the available software sites:
   - EssBAR: ```https://www.mi.fu-berlin.de/ess-bar/update_site.p2```
   - GKN: ```https://abibuilder.informatik.uni-tuebingen.de/archive/openms/knime-plugin/updateSite/nightly/```
-Select all the displayed packages "EssBAR applications, NGS QC features" and click on Next.
-<br/>
+Select all the displayed packages "EssBAR applications, NGS QC features" and click on Next.   
+   
 ![image](images/update_site_install.png)  
 Accept the license agreements by checking the corresponding box.
 If a security warning pops up click install anyway:  
