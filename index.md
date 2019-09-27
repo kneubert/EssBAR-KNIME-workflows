@@ -9,9 +9,8 @@ This is a collection of KNIME nodes to detect and characterize foodborne pathoge
  - KNIME Interactive R Statistics Integration (>= 4.0)
  
 ### Installation of nodes using the update site  
-You need to load the EssBAR update site as a repository within KNIME using  
-```Help -> Install New Software -> Add```       
-Now add these update sites to the available software sites:
+First add the EssBAR and the Generic KNIME nodes nightly build update site as as repositories within KNIME:
+```Help -> Install New Software -> Add```   
   - EssBAR Update site: ```https://www.mi.fu-berlin.de/ess-bar/update_site.p2```
   - GKN nightly build: ```https://abibuilder.informatik.uni-tuebingen.de/archive/openms/knime-plugin/updateSite/nightly/```
 
@@ -21,7 +20,7 @@ If a security warning pops up click install anyway:
    
 ![image](images/unsigned_content-warning.png)    
 
-You will be asked to restart KNIME for changes to take effect. Click on no and continue with the installation of the Generic KNIME nodes.
+You will be asked to restart KNIME for changes to take effect. Click on no and continue with the installation of the Generic KNIME nodes with ```Help -> Install New Software```. Now work with the GKN nighly build site, click on the triangle next to 'Uncategorized' and select ```Generic Workflow Nodes for KNIME```. After finishing the installation you need to restart KNIME.
 Afterwards the EssBAR KNIME nodes should be visible in the KNIME Node repository.   
    
 ### Example workflows
