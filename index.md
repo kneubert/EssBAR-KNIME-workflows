@@ -13,16 +13,12 @@ You need to load the EssBAR update site as a repository within KNIME using
 ```Help -> Install New Software -> Add```       
 Now add these update sites to the available software sites:
   - EssBAR Update site:```https://www.mi.fu-berlin.de/ess-bar/update_site.p2```
-  - GKN nightly build update site: ```https://abibuilder.informatik.uni-tuebingen.de/archive/openms/knime-plugin/updateSite/nightly/```   
-Select all the displayed packages "EssBAR applications, NGS QC features" and click on Next>. 
-<br/>
+  - GKN nightly build update site: ```https://abibuilder.informatik.uni-tuebingen.de/archive/openms/knime-plugin/updateSite/nightly/```
+Select all the displayed packages "EssBAR applications, NGS QC features" and click on Next>.   
 ![image](images/update_site_install.png)  
-<br/>
 Accept the license agreements by checking the corresponding box.
 If a security warning pops up click install anyway:  
-<br/>
 ![image](images/unsigned_content-warning.png)  
-<br/>
 You will be asked to restart KNIME for changes to take effect. Afterwards the EssBAR KNIME nodes should be visible in the KNIME Node repository.
 
 ### Example workflows
