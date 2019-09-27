@@ -19,9 +19,10 @@ Select all the displayed packages "EssBAR applications, NGS QC features" and cli
 ![image](images/update_site_install.png)  
 Accept the license agreements by checking the corresponding box.
 If a security warning pops up click install anyway:  
-![image](images/unsigned_content-warning.png)  
-You will be asked to restart KNIME for changes to take effect. Afterwards the EssBAR KNIME nodes should be visible in the KNIME Node repository.
-
+![image](images/unsigned_content-warning.png)    
+    
+You will be asked to restart KNIME for changes to take effect. Afterwards the EssBAR KNIME nodes should be visible in the KNIME Node repository.   
+   
 ### Example workflows
 For testing we provide several workflows with test data:
  - Metagenomics workflow: [Slimm_taxonomic classification.knwf](Slimm_taxonomic_classification.knwf)
