@@ -15,7 +15,7 @@ First add the EssBAR and the Generic KNIME nodes nightly build update sites as r
   - **GKN:** ```https://abibuilder.informatik.uni-tuebingen.de/archive/openms/knime-plugin/updateSite/nightly/```
 
 ![image](images/loaded_update_sites.png)   
-First, work with the EssBAR Update site and select all the displayed packages  "**NGS applications**, **NGS QC features**" for installation and click on Next. Accept the license agreements by checking the corresponding box and click on Finish.
+First, work with the EssBAR Update site and select all the displayed packages  "**NGS applications**", "**NGS QC features**" for installation and click on Next. Accept the license agreements by checking the corresponding box and click on Finish.
 If a security warning pops up click install anyway:  
    
 ![image](images/unsigned_content-warning.png)    
