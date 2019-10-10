@@ -31,7 +31,7 @@ For testing we provide several workflows with test data:
  Example data: [workflow_data.tar.gz](https://www.mi.fu-berlin.de/ess-bar/workflow_data.tar.gz)   
     
  Workflows for de novo assembly (_SPAdes_), Phylogeny (_Parsnp_, _kSNP3_) , Metagenome analysis (_Slimm_) including small example data (331 Mb):
- [Application_workflows.knar](https://www.mi.fu-berlin.de/ess-bar/Applicatio_workflows.knar)
+ [Application_workflows.knar](https://www.mi.fu-berlin.de/ess-bar/Application_workflows.knar)
 
 ### Source code
 The source code for all nodes is available at [EssBAR-KNIME-nodes](https://github.com/kneubert/EssBAR-KNIME-nodes).
