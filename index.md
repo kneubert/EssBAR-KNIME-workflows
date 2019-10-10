@@ -1,11 +1,12 @@
 ## A tool collection for metagenomics
-This is a collection of KNIME nodes to detect and characterize foodborne pathogens (EssBAR project).
+This is a collection of KNIME nodes and workflows for detection of foodborne pathogens in metagenomic datasets and characterisation of bacterial isolates based on genome assembly.
 
 ## How to
 ### Prerequisites
  - Linux OS (x86_64)
  - KNIME Analytics Platform for Linux (>= version 3.1, but below version 4.0)
- - KNIME Community Extensions - Bioinformatics & NGS -> SeqAn NGS Toolbox (GenericKnimeNodes, NgsToolbox, SeqAn)  
+ - KNIME Community Extensions - Bioinformatics & NGS -> SeqAn NGS Toolbox
+ - Generic Workflow Nodes for KNIME (GKN) 
  - KNIME Interactive R Statistics Integration (>= 4.0)
  
 ### Installation of nodes using the update site  
