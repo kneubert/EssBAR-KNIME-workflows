@@ -33,7 +33,9 @@ For testing we provide several workflows with test data:
  Example data: [workflow_data.tar.gz](https://www.mi.fu-berlin.de/ess-bar/workflow_data.tar.gz)   
     
  Workflows for de novo assembly (_SPAdes_), Phylogeny (_Parsnp_, _kSNP3_) , Metagenome analysis (_Slimm_) including small example data (331 Mb):
- [Application_workflows.knar](https://www.mi.fu-berlin.de/ess-bar/Application_workflows.knar)
+ [Application_workflows.knar](https://www.mi.fu-berlin.de/ess-bar/Application_workflows.knar)   
+    
+ Nodes that are included in the NGS QC package provide an interactive view of HTML reports. The view works currently only with SWT Browser. To use SWT click on ```File -> Preferences``` and select **Internal SWT Browser (Webkit)** in settings of ```KNIME -> JavaScript Views```.
 
 ### Source code
 The source code for all nodes is available at [EssBAR-KNIME-nodes](https://github.com/kneubert/EssBAR-KNIME-nodes).
