@@ -25,10 +25,13 @@ Afterwards the EssBAR KNIME nodes and GenericKnimeNodes should be visible as Com
    
 ### Example workflows
 For testing we provide several workflows with test data:
- - Metagenomics workflow: [Slimm_taxonomic classification.knwf](Slimm_taxonomic_classification.knwf)
- - De novo assembly workflow: [SPAdes_assembly.knwf](SPAdes_assembly.knwf)
- - MLST workflow: [MLST_NGS-data.knwf](MLST_NGS-data.knwf)  
- Example data: [workflow_data.tar.gz](https://www.mi.fu-berlin.de/ess-bar/workflow_data.tar.gz)
+ - _Metagenomics workflow:_ [Slimm_taxonomic classification.knwf](Slimm_taxonomic_classification.knwf)
+ - _De novo assembly workflow:_ [SPAdes_assembly.knwf](SPAdes_assembly.knwf)
+ - _MLST workflow:_ [MLST_NGS-data.knwf](MLST_NGS-data.knwf)  
+ Example data: [workflow_data.tar.gz](https://www.mi.fu-berlin.de/ess-bar/workflow_data.tar.gz)   
+    
+ Workflows for de novo assembly (_SPAdes_), Phylogeny (_Parsnp_, _kSNP3_) , Metagenome analysis (_Slimm_) including small example data (331 Mb):
+ [Application_workflows.knar](https://www.mi.fu-berlin.de/ess-bar/Applicatio_workflows.knar)
 
 ### Source code
-The source code for all nodes at [EssBAR-KNIME-nodes](https://github.com/kneubert/EssBAR-KNIME-nodes)
+The source code for all nodes is available at [EssBAR-KNIME-nodes](https://github.com/kneubert/EssBAR-KNIME-nodes).
