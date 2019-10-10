@@ -18,7 +18,7 @@ First add the EssBAR and the Generic KNIME nodes nightly build update sites as r
 First, work with the EssBAR Update site and select all the displayed packages  "**NGS applications**", "**NGS QC features**" for installation and click on Next. Accept the license agreements by checking the corresponding box and click on Finish.
 If a security warning pops up click install anyway:  
    
-![image](images/unsigned_content-warning.png)    
+![logo](images/unsigned_content-warning.png)    
 
 You will be asked to restart KNIME for changes to take effect. Click on no and continue with the installation of the Generic KNIME nodes with ```Help -> Install New Software```. Now work with the GKN nighly build site, click on the triangle next to 'Uncategorized' and select ```Generic Workflow Nodes for KNIME```. After finishing the installation you need to restart KNIME.   
 Afterwards the EssBAR KNIME nodes and GenericKnimeNodes should be visible as Community Nodes in the KNIME Node repository.   
