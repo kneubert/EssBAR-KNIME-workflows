@@ -10,9 +10,9 @@ This is a collection of KNIME nodes and workflows for detection of foodborne pat
  - KNIME Interactive R Statistics Integration (>= 4.0)
  
 ### Installation of nodes using the update site  
-First add the EssBAR and the Generic KNIME nodes nightly build update sites as repositories within KNIME:   
+To install KNIME nodes it is required to add the _Ess-B.A.R._ and the _Generic KNIME nodes_ nightly build update sites as repositories within KNIME:   
 ```Help -> Install New Software -> Add```   
-  - **EssBAR:** ```https://www.mi.fu-berlin.de/ess-bar/update_site.p2```
+  - **Ess-B.A.R.:** ```https://www.mi.fu-berlin.de/ess-bar/update_site.p2```
   - **GKN:** ```https://abibuilder.informatik.uni-tuebingen.de/archive/openms/knime-plugin/updateSite/nightly/```   
 ![image](images/loaded_update_sites.png)   
 
