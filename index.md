@@ -8,7 +8,7 @@ This is a collection of KNIME nodes and workflows for detection of foodborne pat
  
  ### KNIME Plugins
  - Ess-B.A.R. Nodes (FU Berlin EssBar update site)
- - Generic Workflow Nodes for KNIME (GKN nightly build Uni Tuebingen) 
+ - Generic Workflow Nodes for KNIME (GGKN nightly build Uni Tuebingen) 
  - SeqAn NGS Toolbox (KNIME Community Extensions nightly build - Bioinformatics & NGS)
  - KNIME Interactive R Statistics Integration (KNIME Analytics Platform Update Site)
  - KNIME JavaScript Views (KNIME Analytics Platform Update Site)
@@ -24,16 +24,15 @@ To install required KNIME nodes you have to add the **Ess-B.A.R. nodes**, **Gene
 
 ![image](images/loaded_update_sites.png)   
 
-First, work with the **Ess-B.A.R. update site** and select all displayed packages  "*NGS applications*", "*NGS QC features*" for installation and click on ```Next>```. Accept the license agreements by checking the corresponding box and click on Finish.
-If a security warning pops up click install anyway:  
+First, work with the **Ess-B.A.R. update site** and select all displayed packages  "*NGS applications*", "*NGS QC features*" for installation and click on ```Next>```. Accept the license agreements by checking the corresponding box and click on Finish. If a security warning pops up click install anyway:  
    
 ![logo](images/unsigned_content-warning.png)    
 
-You will be asked to restart KNIME for changes to take effect. Click on *no* and continue with the installation of the **Generic KNIME nodes** with ```Help -> Install New Software```. Now work with the **OpenMS & GKN nightly build site**, click on the triangle next to 'Uncategorized', select ```Generic Workflow Nodes for KNIME``` and ```Next>``` to install it.   
+You will be asked to restart KNIME for changes to take effect. Click on *no* and continue with the installation of the *Generic Workflow Nodes for KNIME* with ```Help -> Install New Software```. Now work with the **OpenMS & GKN nightly build site**, click on the triangle next to 'Uncategorized', select ```Generic Workflow Nodes for KNIME``` and ```Next>``` to install it.   
    
-To install the **SeqAn NGS Toolbox** work with **KNIME Community Contributions nightly build**, select ```SeqAn NGS Toolbox``` from *KNIME Community Extensions (nightly build) - Bioinformatics & NGS* and install it.   
+To install the *SeqAn NGS Toolbox* work with **KNIME Community Contributions nightly build**, select ```SeqAn NGS Toolbox``` from *KNIME Community Extensions (nightly build) - Bioinformatics & NGS* and install it.   
    
-**R Statistics and JavaScript View nodes** can be installed via the official KNIME Analytics Platform update site e.g. ```KNIME Analytics Platform 3.7 Update Site - http://update.knime.com/analytics-platform/3.7``` and select ```KNIME Interactive R Statistics Integration``` and ```KNIME JavaScript Views``` from *KNIME & Extensions* and install it.   
+*R Statistics and JavaScript View nodes* can be installed via the official KNIME Analytics Platform update site e.g. ```KNIME Analytics Platform 3.7 Update Site - http://update.knime.com/analytics-platform/3.7``` and select ```KNIME Interactive R Statistics Integration``` and ```KNIME JavaScript Views``` from *KNIME & Extensions* and install it.   
    
 After finishing the installation you need to restart KNIME. Afterwards the **EssBAR KNIME nodes**, **Generic KNIME nodes** and **SeqAn NGS Toolbox nodes** should be visible as Community Nodes in the KNIME Node repository:  
    
