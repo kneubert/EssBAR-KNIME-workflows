@@ -14,7 +14,7 @@ This is a collection of KNIME nodes and workflows for detection of foodborne pat
  - KNIME JavaScript Views (KNIME Analytics Platform Update Site)
  
 ### Installation of nodes using the update site  
-To install KNIME nodes it is required to add the **Ess-B.A.R.** and the **Generic KNIME nodes** nightly build update sites as repositories within KNIME:   
+To install KNIME nodes it is required to add the **Ess-B.A.R.**, **Generic KNIME nodes** and **SeqAn NGS Toolbox*** nightly build update sites as repositories within KNIME. R Statistics and JavaScript View nodes can be installed via the official KNIME Analytics Platform update site:   
 ```Help -> Install New Software -> Add```   
   - **Ess-B.A.R.:** ```https://www.mi.fu-berlin.de/ess-bar/update_site.p2```
   - **GKN:** ```https://abibuilder.informatik.uni-tuebingen.de/archive/openms/knime-plugin/updateSite/nightly/```   
