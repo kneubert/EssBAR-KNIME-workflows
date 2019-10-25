@@ -8,7 +8,7 @@ This is a collection of KNIME nodes and workflows for detection of foodborne pat
  
  ### KNIME Plugins
  - Ess-B.A.R. Nodes (FU Berlin EssBar update site)
- - Generic Workflow Nodes for KNIME (GGKN nightly build Uni Tuebingen) 
+ - Generic Workflow Nodes for KNIME (OpenMS & GKN nightly build Uni Tuebingen) 
  - SeqAn NGS Toolbox (KNIME Community Extensions nightly build - Bioinformatics & NGS)
  - KNIME Interactive R Statistics Integration (KNIME Analytics Platform Update Site)
  - KNIME JavaScript Views (KNIME Analytics Platform Update Site)
