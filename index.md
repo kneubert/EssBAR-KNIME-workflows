@@ -19,7 +19,7 @@ To install KNIME nodes it is required to add the **Ess-B.A.R.** and the **Generi
   - **Ess-B.A.R.:** ```https://www.mi.fu-berlin.de/ess-bar/update_site.p2```
   - **GKN:** ```https://abibuilder.informatik.uni-tuebingen.de/archive/openms/knime-plugin/updateSite/nightly/```   
   - **SeqAn NGS Toolbox:** ```KNIME Community Contributions (3.7) - http://update.knime.com/community-contributions/trunk```
-  - **KNIME Interactive R Statistics Integration and JavaScript Views: ** ```KNIME Analytics Platform 3.7 Update Site - http://update.knime.com/analytics-platform/3.7```
+  - **KNIME Interactive R Statistics Integration and JavaScript Views:** ```KNIME Analytics Platform 3.7 Update Site - http://update.knime.com/analytics-platform/3.7```
 ![image](images/loaded_update_sites.png)   
 
 First, work with the EssBAR Update site and select all the displayed packages  "**NGS applications**", "**NGS QC features**" for installation and click on Next. Accept the license agreements by checking the corresponding box and click on Finish.
