@@ -24,7 +24,7 @@ To install required KNIME nodes you have to add the **Ess-B.A.R. nodes**, **Gene
 
 ![image](images/loaded_update_sites.png)   
 
-First, work with the EssBAR Update site and select all the displayed packages  "**NGS applications**", "**NGS QC features**" for installation and click on Next. Accept the license agreements by checking the corresponding box and click on Finish.
+First, work with the **Ess-B.A.R. update site** and select all the displayed packages  "**NGS applications**", "**NGS QC features**" for installation and click on Next. Accept the license agreements by checking the corresponding box and click on Finish.
 If a security warning pops up click install anyway:  
    
 ![logo](images/unsigned_content-warning.png)    
