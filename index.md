@@ -27,6 +27,7 @@ If a security warning pops up click install anyway:
 ![logo](images/unsigned_content-warning.png)    
 
 You will be asked to restart KNIME for changes to take effect. Click on no and continue with the installation of the **Generic KNIME nodes** with ```Help -> Install New Software```. Now work with the GKN nighly build site, click on the triangle next to 'Uncategorized' and select ```Generic Workflow Nodes for KNIME```.   
+   
 To install the **SeqAn NGS Toolbox** work with ```KNIME Community Extensions (Trusted) - http://update.knime.com/community-contributions/trunk```, select  ```SeqAn NGS Toolbox``` from *KNIME Community Extensions (nightly build) - Bioinformatics & NGS* and install it.   
    
 **R Statistics and JavaScript View nodes** can be installed via the official KNIME Analytics Platform update site e.g. ```KNIME Analytics Platform 3.7 Update Site - http://update.knime.com/analytics-platform/3.7``` and select ```KNIME Interactive R Statistics Integration``` and ```KNIME JavaScript Views``` from *KNIME & Extensions* and install it.   
