@@ -5,15 +5,20 @@ This is a collection of KNIME nodes and workflows for detection of foodborne pat
 ### Prerequisites
  - Linux OS (x86_64)
  - KNIME Analytics Platform for Linux (>= version 3.1, but below version 4.0)
- - KNIME Community Extensions - Bioinformatics & NGS -> SeqAn NGS Toolbox
- - Generic Workflow Nodes for KNIME (GKN) 
- - KNIME Interactive R Statistics Integration (>= 4.0)
+ 
+ ### KNIME Plugins
+ - Ess-B.A.R. Nodes (FU Berlin EssBar update site)
+ - Generic Workflow Nodes for KNIME (GKN nightly build Uni Tuebingen) 
+ - SeqAn NGS Toolbox (KNIME Community Extensions nightly build - Bioinformatics & NGS)
+ - KNIME Interactive R Statistics Integration (KNIME Analytics Platform Update Site)
+ - KNIME JavaScript Views (KNIME Analytics Platform Update Site)
  
 ### Installation of nodes using the update site  
 To install KNIME nodes it is required to add the **Ess-B.A.R.** and the **Generic KNIME nodes** nightly build update sites as repositories within KNIME:   
 ```Help -> Install New Software -> Add```   
   - **Ess-B.A.R.:** ```https://www.mi.fu-berlin.de/ess-bar/update_site.p2```
   - **GKN:** ```https://abibuilder.informatik.uni-tuebingen.de/archive/openms/knime-plugin/updateSite/nightly/```   
+  - **SeqAn NGS Toolbox:**```KNIME Community Extensions (Trusted) - http://update.knime.com/community-contributions/trunk```
 ![image](images/loaded_update_sites.png)   
 
 First, work with the EssBAR Update site and select all the displayed packages  "**NGS applications**", "**NGS QC features**" for installation and click on Next. Accept the license agreements by checking the corresponding box and click on Finish.
