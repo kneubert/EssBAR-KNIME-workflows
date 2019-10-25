@@ -15,9 +15,9 @@ This is a collection of KNIME nodes and workflows for detection of foodborne pat
  
 ### Installation of nodes using the update site  
 To install required KNIME nodes you have to add the **Ess-B.A.R. nodes**, **Generic KNIME nodes** and **SeqAn NGS Toolbox** nightly build update sites as repositories within KNIME. Use ```Help -> Install New Software -> Add``` to add the following update sites:    
-  - **Ess-B.A.R.:** ```https://www.mi.fu-berlin.de/ess-bar/update_site.p2```
-  - **Generic KNIME nodes:** ```https://abibuilder.informatik.uni-tuebingen.de/archive/openms/knime-plugin/updateSite/nightly/```   
-  - **SeqAn NGS Toolbox:** ```KNIME Community Contributions (3.7) - http://update.knime.com/community-contributions/trunk```
+  - **Ess-B.A.R. update site:** ```https://www.mi.fu-berlin.de/ess-bar/update_site.p2```
+  - **Uni-tuebingen nightly build:** ```https://abibuilder.informatik.uni-tuebingen.de/archive/openms/knime-plugin/updateSite/nightly/```   
+  - **KNIME Community Contributions nightly build:** ``` http://update.knime.com/community-contributions/trunk```
 
 ![image](images/loaded_update_sites.png)   
 
