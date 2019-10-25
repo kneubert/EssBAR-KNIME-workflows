@@ -35,6 +35,7 @@ To install the *SeqAn NGS Toolbox* work with **KNIME Community Contributions nig
 *R Statistics and JavaScript View nodes* can be installed via the official KNIME Analytics Platform update site e.g. ```KNIME Analytics Platform 3.7 Update Site - http://update.knime.com/analytics-platform/3.7```. Select ```KNIME Interactive R Statistics Integration``` and ```KNIME JavaScript Views``` from *KNIME & Extensions* and install it.   
    
 After finishing the installation you need to restart KNIME. Afterwards the **EssBAR KNIME nodes**, **Generic KNIME nodes** and **SeqAn NGS Toolbox nodes** should be visible as Community Nodes in the KNIME Node repository:  
+   
 ![logo](images/node_repository_after_installation.png)  ![logo](images/essbar_gkn_node_repository.png)   
    
 ### Example workflows
