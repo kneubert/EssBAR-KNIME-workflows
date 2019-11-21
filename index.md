@@ -6,7 +6,7 @@ This is a collection of KNIME nodes and workflows for detection of foodborne pat
  - Linux OS (x86_64)
  - KNIME Analytics Platform for Linux (>= version 3.1, but below version 4.0)
  
- ### KNIME Plugins
+### KNIME Plugins
  - Ess-B.A.R. Nodes (FU Berlin EssBar update site)
  - Generic Workflow Nodes for KNIME (OpenMS & GKN nightly build Uni Tuebingen) 
  - SeqAn NGS Toolbox (KNIME Community Extensions nightly build - Bioinformatics & NGS)
